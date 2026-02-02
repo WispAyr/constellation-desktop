@@ -46,9 +46,5 @@
       "entitlements": null
     }
   },
-  "plugins": {
-    "window-state": {
-      "stateFlags": ["size", "position", "visible", "decorations", "fullscreen"]
-    }
-  }
+  "plugins": {}
 }
